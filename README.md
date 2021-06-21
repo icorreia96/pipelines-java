@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/inescorreia/TEST/_apis/build/status/icorreia96.pipelines-java?branchName=master)](https://dev.azure.com/inescorreia/TEST/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
